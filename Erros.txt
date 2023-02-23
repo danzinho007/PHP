@@ -1,0 +1,8 @@
+Erros :
+
+
+Parse error: syntax error, unexpected token "echo", expecting "," or ";" in /home/user/scripts/code.php on line 21
+
+Esse erro geralmente ocorre quando há um erro de sintaxe no código PHP. O erro específico que você mencionou indica que há um erro na linha 21 do arquivo "code.php".
+Geralmente, esse tipo de erro ocorre quando há um erro de digitação ou de sintaxe na linha anterior àquela que gerou o erro. Verifique se todas as linhas de código antes da linha 21 estão corretas e completas.
+Além disso, certifique-se de que todos os parênteses, colchetes e chaves estejam abertos e fechados corretamente, e que todos os pontos-e-vírgulas estejam presentes onde necessário.
